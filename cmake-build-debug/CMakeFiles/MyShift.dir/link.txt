@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/MyShift.dir/main.cpp.o CMakeFiles/MyShift.dir/orario.cpp.o CMakeFiles/MyShift.dir/turno.cpp.o  -o MyShift 

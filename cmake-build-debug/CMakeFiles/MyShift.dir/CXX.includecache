@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nan/ClionProjects/MyShift/main.cpp
+turno.h
+/home/nan/ClionProjects/MyShift/turno.h
+
+/home/nan/ClionProjects/MyShift/orario.cpp
+orario.h
+/home/nan/ClionProjects/MyShift/orario.h
+
+/home/nan/ClionProjects/MyShift/orario.h
+iostream
+-
+string
+-
+
+/home/nan/ClionProjects/MyShift/turno.cpp
+turno.h
+/home/nan/ClionProjects/MyShift/turno.h
+
+/home/nan/ClionProjects/MyShift/turno.h
+orario.h
+/home/nan/ClionProjects/MyShift/orario.h
+
